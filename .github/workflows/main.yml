@@ -1,3 +1,4 @@
+name: Python scaffolding setup test
 on: [push]
 jobs:
   build:
